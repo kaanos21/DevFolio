@@ -1,0 +1,24 @@
+﻿@model DevFolio.Models.TblService
+
+@{
+    ViewBag.Title = "UpdateService";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>Servis Güncelleme</h2>
+
+<form method="post">
+    <label>Servis Id</label>
+    <input type="text" class="form-control" name="ServiceID" value="@Model.ServiceID" />
+    <br />
+    <label>Yetenek Başlığı</label>
+    <input type="text" class="form-control" name="ServiceTitle" value="@Model.ServiceTitle" />
+    <br />
+    <label>Servis foto</label>
+    <input type="text" class="form-control" name="ServiceImageUrl" value="@Model.ServiceImageUrl" />
+    <br />
+    <label>Servis foto</label>
+    <input type="text" class="form-control" name="Description" value="@Model.Description" />
+    <br />
+    <button class="button btn-info">güncelle</button>
+</form>

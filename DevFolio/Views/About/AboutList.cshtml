@@ -1,0 +1,27 @@
+﻿@model List<DevFolio.Models.TblAbout>  
+
+@{
+    ViewBag.Title = "AboutList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>Hakkında Listesi</h2>
+
+   <table class="table table-bordered">
+       <tr>
+           <td>#</td>
+           <td>Açıklama</td>
+       </tr>
+       @foreach(var x in Model)
+            {
+   <tr>
+       <td>@x.AboutId</td>
+       <td>@x.Description</td>
+       <td><a href="/About/UpdateAbout/@x.AboutId" class="btn btn-success">Güncelle</a></td>
+       <td><a href="/About/DeleteAbout/@x.AboutId" class="btn btn-danger">Sil</a></td>
+   </tr>
+            }
+   </table>
+
+<a href="/About/CreateAbout/" class="btn btn-info">Hakkında ekle</a>
+

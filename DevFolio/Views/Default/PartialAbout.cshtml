@@ -1,0 +1,18 @@
+﻿@model List<DevFolio.Models.TblAbout>
+
+<div class="col-md-6">
+    <div class="about-me pt-4 pt-md-0">
+        <div class="title-box-2">
+            <h5 class="title-left">
+                About me
+            </h5>
+        </div>
+        <p class="lead">
+            @foreach(var x in Model)
+            {
+                @x.Description
+            }
+        </p>
+        
+    </div>
+</div>

@@ -1,6 +1,6 @@
 DevFolio Projesi
 
-Hızlı bir şekilde admin paneli entegre edilerek bir CV sitesi oluşturulan bu projede, Db First yaklaşımıyla veritabanı tasarımı ve geliştirmeleri bir arada yönetilir. Bu yöntem, verimliliği artırır ve bakımı kolaylaştırır.
+Bu proje, hızlı entegre edilen bir admin paneli ile CV sitesi oluşturulan projede Db First yaklaşımı kullanılmıştır.
 
 Kullanılan Teknolojiler
 

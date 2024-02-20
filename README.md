@@ -6,13 +6,13 @@ Kullanılan Teknolojiler
 
 -ASP.NET MVC (Model-View-Controller) Framework
 
--Microsoft SQL Server (MSSQL) Veritabanı
+-Microsoft SQL Server
 
--Entity Framework (ORM)
+-Entity Framework
 
--HTML ve CSS (Arayüz tasarımı için)
+-HTML ve CSS
 
--JavaScript (Gerekli istemci tarafı işlevselliği için)
+-JavaScript
 
 Ekran Görüntüleri
 

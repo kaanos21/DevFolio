@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2024-02-20 131201](https://github.com/kaanos21/DevFolio/assets/132845815/a71a7390-730e-427c-b230-b3e9b552c84e)DevFolio Projesi
+DevFolio Projesi
 
 Hızlı bir şekilde admin paneli entegre edilerek bir CV sitesi oluşturulan bu projede, Db First yaklaşımıyla veritabanı tasarımı ve geliştirmeleri bir arada yönetilir. Bu yöntem, verimliliği artırır ve bakımı kolaylaştırır.
 

@@ -16,6 +16,8 @@ Kullanılan Teknolojiler
 
 Ekran Görüntüleri
 
+
+
 ![Ekran görüntüsü 2024-02-20 131201](https://github.com/kaanos21/DevFolio/assets/132845815/1a3e8bf7-13db-4376-9f00-3770a3d6c1b2)
 
 ![Ekran görüntüsü 2024-02-20 131248](https://github.com/kaanos21/DevFolio/assets/132845815/2e3638ec-ae56-4054-bcc8-88c61d2b118f)
@@ -31,5 +33,7 @@ Ekran Görüntüleri
 ![Ekran görüntüsü 2024-02-20 131529](https://github.com/kaanos21/DevFolio/assets/132845815/72a17e3f-d8e5-4cb0-8ab6-4e5a38c66e91)
 
 ![Ekran görüntüsü 2024-02-20 131743](https://github.com/kaanos21/DevFolio/assets/132845815/3f2e1fa5-4546-4e72-9e61-15c9c13be98f)
+
+![Ekran görüntüsü 2024-02-20 132619](https://github.com/kaanos21/DevFolio/assets/132845815/c4299a58-72f8-489c-ba0f-9279b9354eae)
 
 
